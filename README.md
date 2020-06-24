@@ -362,6 +362,9 @@ code, kbd, pre, samp {
 }
 ```
 
+## その他のCSSリセット・ノーマライズ
+[モダンブラウザに適したCSSリセットのまとめ](https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html)
+
 ## Contributing
 
 Please read the [contribution guidelines](CONTRIBUTING.md) in order to make the
